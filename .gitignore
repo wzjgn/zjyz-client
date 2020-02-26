@@ -1,0 +1,17 @@
+.idea/
+**/bin/
+**/target/
+*.class
+*.jar
+*.iml
+.svn/
+.classpath
+.project
+.settings/
+*.log
+*.gz
+**/tomcat-log/
+**/logs/
+**/rebel.xml
+.txlcn/
+.DS_Store
